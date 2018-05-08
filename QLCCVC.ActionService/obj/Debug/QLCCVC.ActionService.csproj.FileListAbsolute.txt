@@ -1,0 +1,9 @@
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.ActionService\bin\Debug\QLCCVC.ActionService.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.ActionService\bin\Debug\QLCCVC.ActionService.pdb
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.ActionService\obj\Debug\QLCCVC.ActionService.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.ActionService\obj\Debug\QLCCVC.ActionService.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.ActionService\bin\Debug\QLCCVC.ActionService.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.ActionService\bin\Debug\QLCCVC.ActionService.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.ActionService\obj\Debug\QLCCVC.ActionService.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.ActionService\obj\Debug\QLCCVC.ActionService.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.ActionService\obj\Debug\QLCCVC.ActionService.csprojResolveAssemblyReference.cache

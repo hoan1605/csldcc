@@ -1,0 +1,15 @@
+﻿@model List<QLCCVC.DAL.DomainModels.LinhVucModel>
+
+
+<select class="select2 form-control" name="DM_linhVuc_ID" data-search="true">
+    <option value="">Chọn Lĩnh vực</option>
+    @if (Model != null)
+    {
+        var currentId = ViewBag.LinhVucId != null ? ViewBag.LinhVucId : "";
+        foreach (var item in Model)
+        {
+            <option value="@item.DM_linhVuc_ID" @(currentId == item.DM_linhVuc_ID ? "selected" : "")>@(item.noiDung)</option>
+        }
+    }
+
+</select>

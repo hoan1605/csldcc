@@ -1,0 +1,32 @@
+﻿
+
+@model List<QLCCVC.DAL.DomainModels.CapDonViHanhChinhModel>
+
+
+    @if (Model != null)
+    {
+        <div class="sidebar-widgets qlcc_menu">
+            <p class="menu-title widget-title" style="font-size: 13px;font-weight: 600;"> 
+                Đơn vị hành chính
+            </p>
+            <ul class="folders qlcc_list">
+                <li>
+                    <label class="neo-check neo-radio">
+                        <input type="radio" name="filterDonVi" checked="checked" value="">
+                        <span class="icon"><i class="fa fa-check"></i></span>
+                        Tất cả
+                    </label>
+                </li>
+                @foreach (var item in Model)
+                {
+                    <li>
+                        <label class="neo-check neo-radio">
+                            <input type="radio" name="filterDonVi" value="@(item.DM_capDonViHanhChinh_ID)">
+                            <span class="icon"><i class="fa fa-check"></i></span>
+                            @(item.noiDung)
+                        </label>
+                    </li>
+                }
+            </ul>
+        </div>
+    }

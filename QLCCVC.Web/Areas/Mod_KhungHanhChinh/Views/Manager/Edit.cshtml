@@ -1,0 +1,126 @@
+﻿@using System.Web.Mvc
+@using System.Web.Mvc.Html
+@model QLCCVC.DAL.DomainModels.KhungModel
+
+@{
+    ViewBag.Title = "Thêm <strong>Khung hành chính</strong>";
+    ViewBag.Group = "Khung hành chính";
+}
+
+<section>
+    <!-- BEGIN SIDEBAR -->
+    <div class="col-md-4">
+        <div class="logopanel">
+            <a href="/">
+                <h1 style="text-align: center;">
+                    Khung hành chính
+                </h1>
+            </a>
+        </div>
+        <div class="sidebar-inner">
+            <div class="menu-title">
+                CHỨC NĂNG
+            </div>
+            <ul class="nav nav-sidebar">
+                <li class="">
+                    <a href="/Mod_khungHanhChinh/Manager/List"><i class="icon-home"></i><span>Khung hành chính</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- END SIDEBAR -->
+    <div class="col-md-8">
+
+        <!-- BEGIN PAGE CONTENT -->
+        <div class="page-content page-thin">
+            <div class="row">
+                <div class="col-lg-12 portlets">
+                    <div class="panel">
+                        <div class="panel-header panel-controls">
+                            <h3><i class="fa fa-table"></i> @Html.Raw(ViewBag.Title)</h3>
+                        </div>
+                        <div class="panel-content">
+                            <div class="row">
+                                @using (Html.BeginForm("Edit", "Manager", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                                {
+                                    @Html.AntiForgeryToken()
+
+                                    <div class="col-md-12">
+                                        <h3>Thông tin</h3>
+                                        <div class="form-group col-xs-12">
+                                            <label class="control-label">Tiêu đề</label>
+                                            @Html.TextBoxFor(m => m.tenKhung, new { @class = "form-control input-sm" })
+                                            <span class="help-block text-danger">@Html.ValidationMessageFor(p => p.tenKhung)</span>
+                                        </div>
+                                        <div class="form-group col-xs-12">
+                                            <label class="control-label">Khung hành chính cha</label>
+                                            <span class="help-block muted">Mỗi khung hành chính có 1 khung hành chính cha (hoặc không).</span>
+                                            @Html.Action("_KhungChaComboboxForm", "Manager", new { khungId = Model.Id, parentId = Model.parent_ID })
+                                        </div>
+                                        <div class="form-group col-xs-12">
+                                            <label class="control-label">Đơn vị</label>
+                                            @Html.Action("_DonViComboboxForm", "Manager", new { donviId = Model.DM_capDonViHanhChinh_ID })
+                                        </div>
+                                        <div class="form-group col-xs-12">
+                                            <label class="control-label">Tổ chức</label>
+                                            @Html.Action("_ToChucComboboxForm", "Manager", new { tochucId = Model.DM_loaiToChuc_ID })
+                                        </div>
+                                        <div class="form-group col-xs-12">
+                                            <label class="control-label">Lĩnh vực</label>
+                                            @Html.Action("_LinhVucComboboxForm", "Manager", new { linhVucId = Model.DM_linhVuc_ID })
+                                        </div>
+                                        <div class="form-group col-xs-12">
+                                            <label class="control-label text-right">Ghi chú</label>
+                                            @Html.TextAreaFor(m => m.ghiChu, new { @class = "form-control", rows = 5 })
+                                        </div>
+                                        <div class="form-group col-xs-12">
+                                            <label class="control-label text-right">Số thứ tự</label>
+                                            @Html.TextBoxFor(m => m.STT, new { @class = "form-control input-sm" })
+                                        </div>
+                                        <div class="form-group col-xs-12">
+                                            <label class="control-label">Hiệu lực</label>
+                                            <div class="input-group">
+                                                <div class="icheck-inline">
+                                                    <label class="neo-check neo-radio">
+                                                        <input type="radio" name="hieuLuc" checked="checked" value="true">
+                                                        <span class="icon"><i class="fa fa-check"></i></span>
+                                                        <b>Có</b>
+                                                    </label>
+                                                    <label class="neo-check neo-radio">
+                                                        <input type="radio" name="hieuLuc" value="false">
+                                                        <span class="icon"><i class="fa fa-check"></i></span>
+                                                        <b>Không</b>
+                                                    </label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="pull-left col-md-12">
+                                        <button type="submit" class="btn btn-embossed btn-primary m-r-20">Lưu</button>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- END PAGE CONTENT -->
+    </div>
+    <!-- END MAIN CONTENT -->
+</section>
+
+
+
+
+@section PageScript{
+
+    <script>
+        $(document).ready(function () {
+            $("#article").addClass("active");
+            $("#articlecategory").addClass("active");
+            $("#articlecategory").closest('ul').show();
+        });
+    </script>
+}

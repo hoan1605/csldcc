@@ -1,0 +1,89 @@
+﻿
+/*CHECKBOX========================================================================*/
+.neo-check input {
+    display: none;
+}
+
+.neo-check .icon {
+    text-align: center;
+    display: inline-block;
+}
+
+    .neo-check .icon .fa {
+        visibility: hidden;
+    }
+
+.neo-check input:checked + .icon .fa {
+    visibility: visible;
+}
+
+.neo-check input:checked + .icon {
+    border: 1px solid #18a689;
+}
+
+/* IE8 and lower disabling hack because it does not support the :checked selector */
+.neo-check input {
+    display: inline\9;
+}
+
+.neo-check .icon {
+    display: none\9;
+}
+/* Checkbox custom */
+label.neo-check {
+    width: 100%;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 5px;
+}
+
+    label.neo-check:hover .icon {
+        border: 1px solid #18a689;
+    }
+
+
+/* Checkbox styling */
+.neo-check input {
+    margin: 0 .1em; /* Use something similar to .icon */
+}
+
+.neo-check input {
+    display: none;
+}
+
+.neo-check .icon {
+    text-align: center;
+    font-size: 13px;
+    color: #666;
+    margin: 0;
+    padding: 0;
+    line-height: 12px;
+    border: 1px solid #e0e6eb;
+    background: #e0e6eb;
+    border-radius: 3px;
+    /**
+     * Values for height, width and line-height
+     * may need to be adjusted depending on your font.
+     */
+}
+
+.neo-check.neo-radio .icon {
+    border-radius: 100%;
+}
+
+.neo-check {
+    list-style: none;
+    padding: 8px;
+    display: inline-block;
+}
+
+    .neo-check li {
+        display: inline-block;
+        margin-right: 0.3em;
+    }
+
+    .neo-check .icon .fa {
+        padding: 4px !important;
+    }
+/*#CHECKBOX========================================================================*/

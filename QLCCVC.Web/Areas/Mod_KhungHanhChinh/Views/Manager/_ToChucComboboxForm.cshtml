@@ -1,0 +1,15 @@
+﻿@model List<QLCCVC.DAL.DomainModels.LoaiToChucModel>
+
+
+<select class="select2 form-control" name="DM_loaiToChuc_ID" data-search="true">
+    <option value="">Chọn Tổ chức</option>
+    @if (Model != null)
+    {
+        var currentId = ViewBag.ToChucId != null ? ViewBag.ToChucId : "";
+        foreach (var item in Model)
+        {
+            <option value="@item.DM_loaiToChuc_ID" @(currentId == item.DM_loaiToChuc_ID ? "selected" : "")>@(item.noiDung)</option>
+        }
+    }
+
+</select>

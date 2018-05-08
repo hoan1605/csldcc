@@ -1,0 +1,21 @@
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Infrastructure\bin\Debug\QLCCVC.Infrastructure.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Infrastructure\bin\Debug\QLCCVC.Infrastructure.pdb
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Infrastructure\bin\Debug\Dapper.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Infrastructure\bin\Debug\Dapper.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Infrastructure\obj\Debug\QLCCVC.Infrastructure.csprojResolveAssemblyReference.cache
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Infrastructure\obj\Debug\QLCCVC.Infrastructure.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Infrastructure\obj\Debug\QLCCVC.Infrastructure.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Infrastructure\bin\Debug\QLCCVC.Infrastructure.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Infrastructure\bin\Debug\QLCCVC.Infrastructure.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Infrastructure\bin\Debug\Dapper.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Infrastructure\bin\Debug\Dapper.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Infrastructure\obj\Debug\QLCCVC.Infrastructure.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Infrastructure\obj\Debug\QLCCVC.Infrastructure.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Infrastructure\obj\Debug\QLCCVC.Infrastructure.csprojResolveAssemblyReference.cache
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Infrastructure\bin\Debug\QLCCVC.Infrastructure.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Infrastructure\bin\Debug\QLCCVC.Infrastructure.pdb
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Infrastructure\bin\Debug\Dapper.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Infrastructure\bin\Debug\Dapper.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Infrastructure\obj\Debug\QLCCVC.Infrastructure.csprojResolveAssemblyReference.cache
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Infrastructure\obj\Debug\QLCCVC.Infrastructure.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Infrastructure\obj\Debug\QLCCVC.Infrastructure.pdb

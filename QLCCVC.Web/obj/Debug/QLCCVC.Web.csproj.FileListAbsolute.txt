@@ -1,0 +1,291 @@
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\ApplicationInsights.config
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\csc.exe
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\System.Collections.Immutable.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\System.Reflection.Metadata.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\vbc.exe
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\VBCSCompiler.exe
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\VBCSCompiler.exe.config
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\QLCCVC.Web.dll.config
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\QLCCVC.Web.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\QLCCVC.Web.pdb
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Antlr3.Runtime.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\EntityFramework.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\EntityFramework.SqlServer.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AI.Agent.Intercept.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AI.DependencyCollector.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AI.Web.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AI.WindowsServer.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.ApplicationInsights.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.Core.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Cookies.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Security.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Facebook.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Google.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Security.OAuth.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Twitter.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Newtonsoft.Json.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Ninject.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Ninject.Web.Common.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Ninject.Web.Mvc.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Owin.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\System.Web.Helpers.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\System.Web.Mvc.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\System.Web.Optimization.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\System.Web.Razor.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\System.Web.WebPages.Deployment.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\System.Web.WebPages.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\System.Web.WebPages.Razor.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\WebActivatorEx.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\WebGrease.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AI.DependencyCollector.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AI.Web.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AI.WindowsServer.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.ApplicationInsights.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Ninject.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Ninject.Web.Common.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Ninject.Web.Mvc.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\System.Web.Helpers.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\System.Web.Mvc.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\System.Web.Optimization.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\System.Web.Razor.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\System.Web.WebPages.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\System.Web.WebPages.Deployment.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\System.Web.WebPages.Razor.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Antlr3.Runtime.pdb
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Newtonsoft.Json.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\EntityFramework.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\EntityFramework.SqlServer.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.Core.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Security.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Facebook.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Cookies.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Security.OAuth.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Google.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Twitter.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\obj\Debug\QLCCVC.Web.csprojResolveAssemblyReference.cache
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\obj\Debug\QLCCVC.Web.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\obj\Debug\QLCCVC.Web.pdb
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Ninject.Web.Common.WebHost.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Ninject.Web.Common.WebHost.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\QLCCVC.DAL.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\QLCCVC.Infrastructure.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Dapper.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\QLCCVC.DAL.pdb
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\QLCCVC.Infrastructure.pdb
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Dapper.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\ApplicationInsights.config
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\csc.exe
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\vbc.exe
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\VBCSCompiler.exe
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\QLCCVC.Web.dll.config
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\QLCCVC.Web.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\QLCCVC.Web.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Antlr3.Runtime.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\EntityFramework.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\EntityFramework.SqlServer.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.Web.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.ApplicationInsights.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Newtonsoft.Json.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.Web.Common.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.Web.Common.WebHost.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.Web.Mvc.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Owin.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\QLCCVC.DAL.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\QLCCVC.Infrastructure.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Helpers.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Mvc.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Optimization.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Razor.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.WebPages.Deployment.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.WebPages.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.WebPages.Razor.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\WebActivatorEx.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\WebGrease.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Dapper.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\QLCCVC.DAL.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\QLCCVC.Infrastructure.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.Web.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.ApplicationInsights.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.Web.Common.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.Web.Common.WebHost.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.Web.Mvc.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Helpers.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Mvc.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Optimization.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Razor.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.WebPages.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.WebPages.Deployment.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.WebPages.Razor.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Antlr3.Runtime.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Newtonsoft.Json.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\EntityFramework.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\EntityFramework.SqlServer.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Dapper.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\obj\Debug\QLCCVC.Web.csprojResolveAssemblyReference.cache
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\obj\Debug\QLCCVC.Web.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\obj\Debug\QLCCVC.Web.pdb
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\ApplicationInsights.config
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\csc.exe
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\System.Collections.Immutable.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\System.Reflection.Metadata.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\vbc.exe
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\VBCSCompiler.exe
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\VBCSCompiler.exe.config
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\QLCCVC.Web.dll.config
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\QLCCVC.Web.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\QLCCVC.Web.pdb
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Antlr3.Runtime.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\EntityFramework.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\EntityFramework.SqlServer.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.Agent.Intercept.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.DependencyCollector.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.Web.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.WindowsServer.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.ApplicationInsights.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.Core.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Cookies.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Facebook.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Google.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.OAuth.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Twitter.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Newtonsoft.Json.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.Web.Common.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.Web.Common.WebHost.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.Web.Mvc.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Owin.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\QLCCVC.DAL.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\QLCCVC.Infrastructure.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Helpers.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Mvc.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Optimization.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Razor.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.WebPages.Deployment.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.WebPages.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.WebPages.Razor.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\WebActivatorEx.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\WebGrease.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Dapper.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\QLCCVC.DAL.pdb
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\QLCCVC.Infrastructure.pdb
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.DependencyCollector.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.Web.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AI.WindowsServer.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.ApplicationInsights.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.Web.Common.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.Web.Common.WebHost.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Ninject.Web.Mvc.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Helpers.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Mvc.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Optimization.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.Razor.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.WebPages.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.WebPages.Deployment.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\System.Web.WebPages.Razor.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Antlr3.Runtime.pdb
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Newtonsoft.Json.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\EntityFramework.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\EntityFramework.SqlServer.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.Core.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Facebook.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Cookies.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.OAuth.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Google.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.Twitter.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Dapper.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\obj\Debug\QLCCVC.Web.csprojResolveAssemblyReference.cache
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\obj\Debug\QLCCVC.Web.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\obj\Debug\QLCCVC.Web.pdb

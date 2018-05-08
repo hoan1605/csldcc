@@ -1,0 +1,81 @@
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\ApplicationInsights.config
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\roslyn\csc.exe
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\roslyn\System.Collections.Immutable.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\roslyn\System.Reflection.Metadata.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\roslyn\vbc.exe
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\roslyn\VBCSCompiler.exe
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\roslyn\VBCSCompiler.exe.config
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Mod_KhungHanhChinh.dll.config
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Mod_KhungHanhChinh.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Mod_KhungHanhChinh.pdb
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Microsoft.AI.Agent.Intercept.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Microsoft.AI.DependencyCollector.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Microsoft.AI.Web.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Microsoft.AI.WindowsServer.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Microsoft.ApplicationInsights.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Microsoft.Web.Infrastructure.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\System.Web.Helpers.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\System.Web.Mvc.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\System.Web.Razor.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\System.Web.Webpages.Deployment.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\System.Web.Webpages.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\System.Web.Webpages.Razor.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Microsoft.AI.DependencyCollector.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Microsoft.AI.Web.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Microsoft.AI.WindowsServer.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Microsoft.ApplicationInsights.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\System.Web.Razor.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\System.Web.Webpages.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\System.Web.Webpages.Deployment.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\System.Web.Webpages.Razor.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\System.Web.Helpers.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\bin\System.Web.Mvc.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\obj\Debug\Mod_KhungHanhChinh.csprojResolveAssemblyReference.cache
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\obj\Debug\Mod_KhungHanhChinh.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\obj\Debug\Mod_KhungHanhChinh.pdb
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\csc.exe
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\System.Collections.Immutable.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\System.Reflection.Metadata.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\vbc.exe
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\VBCSCompiler.exe
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\roslyn\VBCSCompiler.exe.config
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\ApplicationInsights.config
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Mod_KhungHanhChinh.dll.config
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Mod_KhungHanhChinh.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.Web\bin\Mod_KhungHanhChinh.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\ApplicationInsights.config
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\csc.exe
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\vbc.exe
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\VBCSCompiler.exe
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Mod_KhungHanhChinh.dll.config
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Mod_KhungHanhChinh.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\bin\Mod_KhungHanhChinh.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\obj\Debug\Mod_KhungHanhChinh.csprojResolveAssemblyReference.cache
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\obj\Debug\Mod_KhungHanhChinh.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.Web\Areas\Mod_KhungHanhChinh\obj\Debug\Mod_KhungHanhChinh.pdb

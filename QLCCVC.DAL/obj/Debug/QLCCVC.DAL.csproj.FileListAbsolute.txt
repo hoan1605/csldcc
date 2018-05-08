@@ -1,0 +1,38 @@
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.DAL\bin\Debug\QLCCVC.DAL.dll.config
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.DAL\bin\Debug\QLCCVC.DAL.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.DAL\bin\Debug\QLCCVC.DAL.pdb
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.DAL\bin\Debug\Dapper.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.DAL\bin\Debug\QLCCVC.Infrastructure.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.DAL\bin\Debug\QLCCVC.Infrastructure.pdb
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.DAL\bin\Debug\Dapper.xml
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.DAL\obj\Debug\QLCCVC.DAL.csprojResolveAssemblyReference.cache
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.DAL\obj\Debug\QLCCVC.DAL.dll
+F:\QT_Working\QLCSDLCongChucVienChuc\QLCCVC.DAL\obj\Debug\QLCCVC.DAL.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\QLCCVC.DAL.dll.config
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\QLCCVC.DAL.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\QLCCVC.DAL.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\Dapper.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\QLCCVC.Infrastructure.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\QLCCVC.Infrastructure.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\Dapper.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\obj\Debug\QLCCVC.DAL.csprojResolveAssemblyReference.cache
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\obj\Debug\QLCCVC.DAL.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\obj\Debug\QLCCVC.DAL.pdb
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\EntityFramework.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\EntityFramework.xml
+E:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\QLCCVC.DAL.dll.config
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\QLCCVC.DAL.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\QLCCVC.DAL.pdb
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\Dapper.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\EntityFramework.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\QLCCVC.Infrastructure.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\QLCCVC.Infrastructure.pdb
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\Dapper.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\EntityFramework.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\obj\Debug\QLCCVC.DAL.csprojResolveAssemblyReference.cache
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\obj\Debug\QLCCVC.DAL.dll
+F:\C#\ASP.NET MVC\CodeOrient\CongChucViec\Code\Git\csdl-cong-chuc\QLCCVC.DAL\obj\Debug\QLCCVC.DAL.pdb

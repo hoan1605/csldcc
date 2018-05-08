@@ -1,0 +1,15 @@
+﻿@using Microsoft.AspNet.Identity
+<div class="sidebar">
+    <div class="logopanel">
+        <a href="/">
+            <h2 style="text-align: center;">
+                Khung hành chính
+            </h2>
+        </a>
+    </div>
+    <div class="sidebar-inner">
+        @Html.Action("DonViHanhChinhMenu", "Manager", new { viewName = "_MenuDonViHanhChinh" })
+        @Html.Action("ToChucMenu", "Manager", new { viewName = "_MenuToChuc" })
+        @Html.Action("LinhVucMenu", "Manager", new { viewName = "_MenuLinhVuc" })
+    </div>
+</div>

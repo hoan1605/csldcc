@@ -1,0 +1,154 @@
+﻿
+@{
+    ViewBag.Title = "Danh sách <strong>Khung hành chính</strong>";
+    ViewBag.Group = "Khung hành chính";
+}
+<section>
+    <!-- BEGIN SIDEBAR -->
+    <div class="col-md-4">
+       @Html.Partial("_Sidebar")
+    </div>
+    <!-- END SIDEBAR -->
+    <div class="col-md-8">
+
+        <!-- BEGIN PAGE CONTENT -->
+        <div class="page-content page-thin">
+            <div class="row">
+                <div class="col-lg-12 portlets" ng-controller="khungListCtrl">
+                    <div class="panel">
+                        <div class="panel-header panel-controls">
+                            <h3><i class="fa fa-table"></i> @Html.Raw(ViewBag.Title)</h3>
+                        </div>
+                        <div class="panel-content">
+                            <div class="row">
+                                <div class="col-xlg-2 col-lg-2 col-md-2 col-sm-2 col-xs-12">
+                                    <div class="form-group">
+                                        <label class="control-label"></label>
+                                        <a href="/Mod_khungHanhChinh/Manager/Add" id="table-edit_new" class="btn btn-dark" style=" width: 100%;">
+                                            <i class="fa fa-plus"></i> Thêm mới
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-xlg-8 col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                                    <div class="form-group">
+                                        <label class="control-label">Lọc theo tên</label>
+                                        <div class="input-group">
+                                            <input id="KhungSearch" type="text" class="form-control" placeholder="Tìm theo tên/tiêu đề ...">
+                                            <span class="input-group-btn">
+                                                <button id="KhungSearchBtn" class="btn btn-default" type="button">Tìm</button>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <table class="table table-hover dataTable" id="table-editable">
+                                <thead>
+                                    <tr>
+                                        <th>
+                                            <label class="neo-check">
+                                                <input type="checkbox" name="isPublic">
+                                                <span class="icon"><i class="fa fa-check"></i></span>
+                                                #
+                                            </label>
+                                        </th>
+                                        <th>Tên Khung</th>
+                                        <th>Cán bộ</th>
+                                        <th>Công chức</th>
+                                        <th>Viên chức</th>
+                                        <th>HĐ 68</th>
+                                        <th>Tổng</th>
+                                        <th class="text-right">
+                                            Thao tác
+                                        </th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr ng-repeat="item in dataList">
+                                        <td class="text-center">
+                                            <label class="neo-check">
+                                                <input type="checkbox" name="isPublic">
+                                                <span class="icon"><i class="fa fa-check"></i></span>
+                                                {{ item.STT }}
+                                            </label>
+                                        </td>
+                                        <td>
+                                            <a href="/Mod_khungHanhChinh/Manager/Edit/{{ item.Id }}">
+                                                <b>{{ item.tenKhung }}</b>
+                                            </a>
+                                            <br />
+                                            <small style="font-size: 9px;">{{item.TreePath}}</small>
+                                        </td>
+                                        <td>
+                                            <span>0</span>
+                                        </td>
+                                        <td>
+                                            <span>0</span>
+                                        </td>
+                                        <td>
+                                            <span>0</span>
+                                        </td>
+                                        <td>
+                                            <span>0</span>
+                                        </td>
+                                        <td>
+                                            <span>0</span>
+                                        </td>
+                                        <td class="text-right">
+                                            <a class="edit btn btn-sm btn-default" href="/Mod_khungHanhChinh/Manager/Edit/{{item.Id}}" data-rel="tooltip" data-placement="top" tooltip="Chỉnh sửa" title="Chỉnh sửa">
+                                                <i class="icon-note"></i> Sửa
+                                            </a>
+                                            <a class="delete btn btn-sm btn-danger" href="javascript:;" ng-click="openModalDelete(item.Id)" data-rel="tooltip" data-placement="top" tooltip="Xóa" title="Xóa">
+                                                <i class="icons-office-52"></i> Xóa
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr ng-show="!dataList.length">
+                                        <td valign="top" colspan="8" class="dataTables_empty">Không có dữ liệu</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div id="ModalDelete" class="modal  fade in">
+                        <div class="modal-dialog modal-sm">
+                            <div class="modal-content">
+                                <div class="modal-header bg-danger">
+                                    <button type="button" class="close" data-dismiss="modal">×</button>
+                                    <h4 class="modal-title">Thông báo</h4>
+                                </div>
+
+                                <div class="modal-body">
+                                    <h6 class="text-semibold">Bạn chắc chắn muốn xóa !</h6>
+                                </div>
+
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-link" data-dismiss="modal">Hủy</button>
+                                    <button id="DeleteComfirmBtn" type="button" class="btn btn-danger" data-confirm-id="0">Xóa</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- END PAGE CONTENT -->
+    </div>
+    <!-- END MAIN CONTENT -->
+</section>
+
+
+
+@section PageScript{
+
+    <script src="~/Areas/Mod_KhungHanhChinh/Statics/app/notificationService.js"></script>
+    <script src="~/Areas/Mod_KhungHanhChinh/Statics/app/controllers/khungListCtrl.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#product").addClass("active");
+            $("#productcategory").addClass("active");
+            $("#productcategory").closest('ul').show();
+        });
+    </script>
+}

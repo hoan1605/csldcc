@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản lý công chức</title>
+    @Styles.Render("~/Valicss/css")
+</head>
+<body ng-app="os">
+    <div class="navbar-top">
+        <div class="row">
+            <div class="col-md-6 col-lg-6">
+                <div class="navbar-topleft">
+                    <div class="logo-left">
+                        <a ng-click="setMain(CMain)" style="display:inline-block;float:left">
+                            <img src="@Url.Content("~/Content/images/icon 3/LOGO.png")" width="314" class="img-responsive" alt="Image">
+                        </a>
+                        <h4 class="titlelogo">CƠ SỞ DỮ LIỆU, CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-6">
+                <div class="navbar-topright">
+                    <ul class="menu-topright">
+                        <li><a title="Ẩn Menu chức năng" ng-click="Slidebar()" class="afz"><i style="font-size:18px" class="fa fa-arrows-alt"></i></a>
+                        <li ng-if="Parents.length>1">
+                            <a title="Chức năng khác" class="sidebar-toggle dropdown-toggle" data-toggle="dropdown" aria-expanded="true"><img src="@Url.Content("~/skins/img/icon/menu.png")" class="img-responsive img-icon"></a>
+                            <ul class="chucnang dropdown-menu">
+                                <li class="col-md-4" ng-repeat="m in Parents|filter:{WebView:'!' +Main.WebView}:true track by $index">
+                                    <a ng-click="setMain(m)">
+                                        <img ng-src="{{baseUrl+m.IconWeb}}" class="img-responsive" alt="Image">
+                                        <span ng-bind="m.MenuName"></span>
+                                        <span class="countitem" ng-if="Counts[m.IsCount]>0" ng-bind="Counts[m.IsCount]"></span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a title="{{login.u.displayName}}" class="sidebar-toggle dropdown-toggle" data-toggle="dropdown" aria-expanded="true"><img src="/Skins/Img/user_ccv.jpg" class="img-responsive img-user"></a>
+                            <ul class="navbar-info dropdown-menu">
+                                <li><a ng-click="ModalChangeInfor()"><i class="fa fa-user" aria-hidden="true"></i> Thông tin cá nhân</a></li>
+                                <li><a ng-click="ModalChangePass()"><i class="fa fa-cog" aria-hidden="true"></i> Đổi mật khẩu</a></li>
+                                <li><a ng-click="logOut()"><i class="fa fa-sign-in" aria-hidden="true"></i> Thoát</a></li>
+                            </ul>
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        @RenderBody()
+    </div>
+    <script type="text/javascript">var baseUrl = "@Request.Url.GetLeftPart(UriPartial.Authority)@Url.Content("~")"</script>
+    @Scripts.Render("~/bundles/valijs")
+    @Scripts.Render("~/bundles/signalr")
+    @Scripts.Render("~/bundles/angular")
+    @Scripts.RenderFormat("<script src='{0}' defer></script>", "~/bundles/angularControllerAdmin")
+    <script type="text/javascript" src="@Url.Content("~/Angular/app.js")"></script>
+    <div id="loading"><i class="fa fa-spin fa-refresh"></i></div>
+</body>
+</html>

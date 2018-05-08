@@ -1,0 +1,16 @@
+﻿
+@model List<QLCCVC.DAL.DomainModels.CapDonViHanhChinhModel>
+
+
+<select class="select2 form-control" name="DM_capDonViHanhChinh_ID" data-search="true">
+    <option value="">Chọn Đơn vị hành chính</option>
+    @if (Model != null)
+    {
+        var curentId = ViewBag.DonViId != null ? ViewBag.DonViId : "";
+        foreach (var item in Model)
+        {
+            <option value="@item.DM_capDonViHanhChinh_ID" @(curentId == item.DM_capDonViHanhChinh_ID ? "selected" : "")>@(item.noiDung)</option>
+        }
+    }
+
+</select>

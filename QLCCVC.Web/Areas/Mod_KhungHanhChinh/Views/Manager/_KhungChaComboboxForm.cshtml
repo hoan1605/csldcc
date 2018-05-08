@@ -1,0 +1,15 @@
+﻿@model List<QLCCVC.DAL.DomainModels.KhungModel>
+
+
+<select class="select2 form-control" name="parent_ID" data-search="true">
+    <option value="0">Chọn Khung hành chính cha</option>
+    @if (Model != null)
+    {
+        var parentId = ViewBag.ParentId != null ? ViewBag.ParentId : 0;
+        foreach (var item in Model)
+        {
+            <option value="@item.Id" @(parentId == item.Id ? "selected" : "")>@(item.tenKhung)</option>
+        }
+    }
+
+</select>
